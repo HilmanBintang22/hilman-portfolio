@@ -1,6 +1,6 @@
 ---
 title: "CV"
-description: "Curriculum Vitae Riqo Rahma Hidayat."
+description: "Curriculum Hilman Bintang Ardhani."
 ---
 
 <div class="text-center my-8">
@@ -11,7 +11,7 @@ description: "Curriculum Vitae Riqo Rahma Hidayat."
 
 <div class="border-border overflow-hidden rounded-lg border bg-muted/20">
   <iframe
-    src="https://drive.google.com/file/d/1C8M1gN6JY6DK_JPDNkmqF0d3w7J3t1OQ/preview"
+    src="https://drive.google.com/file/d/1wWBxzMS8Q6uwUyeSHURRXIYeJL8j3v6p/preview"
     width="100%"
     height="800px"
     class="w-full"
