@@ -1,6 +1,6 @@
 ---
 author: Hilman Bintang Ardhani
-pubDatetime: 2026-06-04T14:00:00Z
+pubDatetime: 2025-07-26T14:00:00Z
 title: Ichiro Ramen Website
 slug: ichiro-ramen-website
 featured: true

@@ -1,6 +1,6 @@
 ---
 author: Hilman Bintang Ardhani
-pubDatetime: 2026-06-04T13:00:00Z
+pubDatetime: 2026-01-30T13:00:00Z
 title: Pelaporan Banjir
 slug: pelaporan-banjir
 featured: true
