@@ -3,10 +3,10 @@ import { defineAstroPaperConfig } from "./src/types/config";
 export default defineAstroPaperConfig({
   site: {
     url: "https://astro-paper.pages.dev/",
-    title: "RQ",
-    description: "A minimal, responsive and SEO-friendly Astro blog theme.",
-    author: "Sat Naing",
-    profile: "https://satna.ing",
+    title: "Hilman",
+    description: "Portofolio & CV Hilman Bintang Ardhani.",
+    author: "Hilman Bintang Ardhani",
+    profile: "https://github.com/HilmanBintang22",
     ogImage: "default-og.jpg",
     lang: "en",
     timezone: "Asia/Jakarta",
@@ -24,15 +24,13 @@ export default defineAstroPaperConfig({
     showBackButton: true,
     editPost: {
       enabled: false,
-      // url: "https://github.com/RIQORAHMAHIDAYAT/edit/main/",
+      // url: "https://github.com/HilmanBintang22",
     },
     search: "pagefind",
   },
   socials: [
-    { name: "github",   url: "https://github.com/RIQORAHMAHIDAYAT" },
-    { name: "x",        url: "https://x.com/username" },
-    { name: "linkedin", url: "https://www.linkedin.com/in/username/" },
-    { name: "mail",     url: "mailto:yourmail@gmail.com" },
+    { name: "github",   url: "https://github.com/HilmanBintang22" },
+    { name: "linkedin", url: "https://www.linkedin.com/in/hilman-bintang-ardhani-17a68291/" },
   ],
   shareLinks: [
     { name: "whatsapp", url: "https://wa.me/?text=" },
